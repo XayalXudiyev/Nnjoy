@@ -1,0 +1,14 @@
+.slick-prev,
+.slick-next {
+  display: none !important;
+}
+
+
+.close-btn {
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+.bg-dark{
+  background-color: blue;
+}

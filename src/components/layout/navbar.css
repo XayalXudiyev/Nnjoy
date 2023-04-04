@@ -1,0 +1,18 @@
+.navbar_links{
+    display: flex;
+    justify-content: space-evenly  ;
+   
+}
+.navbar_links li {
+    
+
+color: rgb(0, 0, 0);
+
+}
+
+.links{
+    text-decoration: none;
+}
+
+
+
